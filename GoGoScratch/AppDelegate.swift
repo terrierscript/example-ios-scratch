@@ -15,9 +15,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication!, didFinishLaunchingWithOptions launchOptions: NSDictionary!) -> Bool {
-        
-        
-        //UILabel.appearance().font = UIFont(name: "Avenir", size: UIFont.labelFontSize())  //= "Avenir"
         // Override point for customization after application launch.
         return true
     }
